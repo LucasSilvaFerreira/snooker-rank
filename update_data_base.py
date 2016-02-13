@@ -82,12 +82,12 @@ def main():
     # add_new_player('Dinar')
     # add_new_player('Maira')
     # add_new_player('Lucas')
-    update_placar(tipo='i', i_hash={"Adriana":0,
-                                    "Dinar":0,
-                                    "Lucas":1})
-
-    update_placar(tipo='d', array_duplas=[["Maira","Lucas",3],["Adriana", "Dinar",1]])
-
+    # update_placar(tipo='i', i_hash={"Dinar":2,
+    #                                 "Lucas":1,
+    #                                 "Maira":1})
+    #
+    # update_placar(tipo='d', array_duplas=[["Maira","Lucas",5],["Adriana", "Dinar",2]])
+    #
 
 
 if __name__ == '__main__':
